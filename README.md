@@ -76,7 +76,7 @@ Brain_Tumor_Classifier/
 
 ## ⚙️ Installation & Setup
 
-git clone https://github.com/your-username/Brain_Tumor_Classifier.git
+git clone https://github.com/VelpulaSivaReddy/Brain_Tumor_Classifier.git
 cd Brain_Tumor_Classifier
 
 python -m venv venv
